@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GonzRodriguez
+👋 Hi, I’m @GonzRodriguez
 - 🌪 Lead frontend developer in VirtualE, creating the most revolutionary app in Esports
 - 👀 I’m interested in anything that has something to do with technology among a bunch of other stuff like cooking, art, economy, non-fiction books...
 - 🌱 I’m currently learning and mastering javascript.
